@@ -1,4 +1,4 @@
-\# Airline Review Insights ✈️📊
+# Airline Review Insights ✈️📊
 
 
 
@@ -6,31 +6,31 @@ This project analyzes 50,000 airline passenger reviews to uncover valuable busin
 
 
 
-\## 🚀 Key Features
+## 🚀 Key Features
 
-\- Sentiment analysis to compare airline reputations
+- Sentiment analysis to compare airline reputations
 
-\- Topic modeling to discover major customer concerns and interests
+- Topic modeling to discover major customer concerns and interests
 
-\- Time-based analysis of rating trends for selected airlines
+- Time-based analysis of rating trends for selected airlines
 
-\- Visual exploration of top-rated airlines vs. least recommended ones
-
-
-
-\## 🛠 Technologies Used
-
-\- Python (pandas, matplotlib, seaborn, nltk, scikit-learn, gensim, spaCy)
-
-\- Jupyter Notebook (Google Colab)
-
-\- LDA for topic modeling
-
-\- VADER/TextBlob for sentiment analysis
+- Visual exploration of top-rated airlines vs. least recommended ones
 
 
 
-\## 📁 File
+## 🛠 Technologies Used
 
-\- `airline\_sentiment\_topic\_analysis.ipynb` – Complete code and analysis
+- Python (pandas, matplotlib, seaborn, nltk, scikit-learn, gensim, spaCy)
+
+- Jupyter Notebook (Google Colab)
+
+- LDA for topic modeling
+
+- VADER/TextBlob for sentiment analysis
+
+
+
+## 📁 File
+
+- `airline\_sentiment\_topic\_analysis.ipynb` – Complete code and analysis
 
