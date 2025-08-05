@@ -32,5 +32,5 @@ This project analyzes 50,000 airline passenger reviews to uncover valuable busin
 
 ## 📁 File
 
-- `airline\_sentiment\_topic\_analysis.ipynb` – Complete code and analysis
+- `airline_sentiment_topic_analysis.ipynb` – Complete code and analysis
 
